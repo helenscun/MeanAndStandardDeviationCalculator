@@ -15,14 +15,15 @@ standard deviation in a GUI text area.
 | `src/Statistics.java` | Mean and standard deviation (single pass, Welford) |
 | `src/ResultFormatter.java` | Builds the report text shown in the GUI |
 | `src/TestRunner.java` | Console tests (no libraries needed) |
-<img width="498" height="374" alt="image" src="https://github.com/user-attachments/assets/cceda713-4cb5-474b-9d34-792614d20dc6" />
+<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/b88bc439-eb4a-4ea0-a872-eb0ac276b9fd" />
+
 
 | `testdata/` | Sample input files for manual GUI testing |
 
 ## Build and run
 
 Requires a JDK (Java 11 or newer). If not, use a docker. I don't know, lol.
-<img width="312" height="390" alt="image" src="https://github.com/user-attachments/assets/01bbfa96-1125-4463-9389-70b0dc3bfb08" />
+<img width="1316" height="1126" alt="image" src="https://github.com/user-attachments/assets/739c6615-f51a-4c79-9905-34dfa8e4b3c4" />
 
 
 ```
