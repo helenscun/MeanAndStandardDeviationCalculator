@@ -23,7 +23,7 @@ standard deviation in a GUI text area.
 ## Build and run
 
 Requires a JDK (Java 11 or newer). If not, use a docker. I don't know, lol.
-<img width="1316" height="1126" alt="image" src="https://github.com/user-attachments/assets/739c6615-f51a-4c79-9905-34dfa8e4b3c4" />
+<img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/739c6615-f51a-4c79-9905-34dfa8e4b3c4" />
 
 
 ```
