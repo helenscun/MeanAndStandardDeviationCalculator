@@ -16,6 +16,7 @@ standard deviation in a GUI text area.
 | `src/ResultFormatter.java` | Builds the report text shown in the GUI |
 | `src/TestRunner.java` | Console tests (no libraries needed) |
 <img width="498" height="374" alt="image" src="https://github.com/user-attachments/assets/cceda713-4cb5-474b-9d34-792614d20dc6" />
+
 | `testdata/` | Sample input files for manual GUI testing |
 
 ## Build and run
